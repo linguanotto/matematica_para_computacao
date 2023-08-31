@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.0",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "start": "tsc -w"
+  }
+}
