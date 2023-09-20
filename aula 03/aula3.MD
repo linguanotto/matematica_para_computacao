@@ -20,7 +20,7 @@ podemos concluir que as expressões são equivalentes na lógica proposicional.
 
 B)
 |  p  |  q  | ¬p  | ¬q  | p ∧ q | ¬(p ∧ q) | ¬p ∨ ¬q |
-|---- |---- |--- -|---  |-------|----------|---------|
+|-----|-----|-----|-----|-------|----------|---------|
 |  T  |  T  |  F  |  F  |   T   |    F     |    F    |
 |  T  |  F  |  F  |  T  |   F   |    T     |    T    |
 |  F  |  T  |  T  |  F  |   F   |    T     |    T    |
